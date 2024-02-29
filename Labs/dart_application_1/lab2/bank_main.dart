@@ -12,6 +12,7 @@ void main() {
   print('2. снять');
   int operation = int.parse(stdin.readLineSync()!);
 
+  ///////////////////
 
 switch(operation) {
     case 1:
